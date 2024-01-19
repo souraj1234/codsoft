@@ -6,3 +6,7 @@ This Repo Has 3 File
 Preview Of Tic-Tac-Toe
 
 ![98207006-625a-4077-b2d1-e86a06c08f92](https://github.com/souraj1234/codsoft/assets/101081878/74a0f856-b4e1-4a54-a489-d14cd2612660)
+
+Preview Of Movie Recomender System
+
+![Output SS](https://github.com/souraj1234/codsoft/assets/101081878/2f99f4b7-64f6-439c-a720-8ffa20737bbb)

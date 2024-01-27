@@ -4,8 +4,17 @@ This Is CODSOFT INTERSHIP Repository
 
 This Repo Has 3 File 
 1.Tic-Tac-Toe
-2.Movie Recommender System
-3.Chatbot Python (Terminal User Interface)
+2.Chatbot Python (Terminal User Interface)
+3.Movie Recommender System
+
+* Tic-Tac-Toe:
+    Implement an AI agent that plays the classic game of Tic-Tac-Toe against a human player. Here I use Minimax algorithm to make the AI player unbeatable. In this project anyone can play with AI as well as with a person.
+
+* ChatBot Python
+     This is a simple chatbot with rule based responses. Here I use if-else pattern to identify user queries and provide appropriate responses.
+
+* Movie Recommder System
+    Here I try to create a simple recommendation system for movies that suggests items to users based on their preferences. I use content-based filtering to recommend movies.
 
 Preview Of Tic-Tac-Toe
 
